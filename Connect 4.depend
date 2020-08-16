@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1566375099 source:d:\usuario\estefany\documents\codeblocksprojects\connect 4\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1566375099 d:\usuario\estefany\documents\codeblocksprojects\connect 4\inicia.h
+
+1567298892 source:d:\usuario\estefany\documents\codeblocksprojects\connect 4\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<iostream>
+
